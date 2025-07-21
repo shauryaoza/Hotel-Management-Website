@@ -166,7 +166,7 @@ nav {
         rgba(15,26,44,0.5),
         rgba(15,26,44,0.5)
         ), 
-    url("pt1.jpg");
+    url("/img/pt1.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ nav {
     right: 0;
     height: 75%;
     width: 100%;
-    background-image: url("pt4.jpg");
+    background-image: url("/img/pt4.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
